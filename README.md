@@ -1,2 +1,2 @@
 # Home-page
-This is task on building a login page for website
+This is simple task for a login on a webpage
